@@ -10,6 +10,9 @@ public class Main {
     private static void print_1(String s){
         System.out.println(s);
     }
+    private static void print_2(String s){
+        System.out.println(s);
+    }
 }
 
 
