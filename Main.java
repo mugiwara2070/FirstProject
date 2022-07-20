@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        print("hello world");
+        print("hello world from first_branch");
     }
 
     private static void print(String s){
